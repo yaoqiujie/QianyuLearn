@@ -3,13 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to 姚千羽学习文档's documentation!
+姚千羽学习文档
 ==========================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-
 
     学而思数学 <XRS/mathIndex>
     千言万羽 <TalkWithQian/index>

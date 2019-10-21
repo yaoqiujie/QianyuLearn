@@ -12,6 +12,7 @@ Welcome to 姚千羽学习文档's documentation!
 
 
     学而思数学 <XRS/mathIndex>
+    千言万羽 <TalkWithQian/index>
 
 Indices and tables
 ==================

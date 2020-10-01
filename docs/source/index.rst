@@ -11,6 +11,7 @@
 
     学而思数学 <XRS/mathIndex>
     千言万羽 <TalkWithQian/index>
+    读书笔记 <ReadAndNote/index>
     习作练习 <Composition/index>
     期末总结 <summary>
 
